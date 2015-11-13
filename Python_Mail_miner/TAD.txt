@@ -1,0 +1,1172 @@
+01/30/15 10:00:07
+CATS transfer error 1501
+01/26/15 17:40:39
+[cSAPC training] How to use the policy engine
+01/15/15 01:38:47
+RE: New Networks being created for Reporting to SAPC DM & PLM
+01/05/15 17:44:11
+RE: Gerrit code review
+12/31/14 00:03:43
+'ascii' codec can't encode character u'\xe9' in position 22: ordinal not in range(128)
+12/22/14 17:06:09
+FW: Jenkins JOB
+12/22/14 15:45:42
+[GIT Migration] Setup the GIT environment
+12/19/14 16:16:01
+RE: Training GIT & Accesos Gerrit
+12/19/14 15:55:14
+Christmas Holiday Reminder &  Holidays Arrangement for Year 2015
+12/17/14 14:40:39
+RE: Reminder: Time Report wk2014.53
+11/27/14 14:18:33
+Voucher for Guest WLAN at Ericsson for Carl Chen at ericsson
+11/25/14 23:46:49
+[Design Community] MoMs week 47
+11/19/14 13:53:46
+FW: Two new scripts to help reducing LM size on maintenance
+11/15/14 01:16:38
+RE: EPIC- 28
+11/10/14 13:19:02
+RE: IPM: For your information and action
+11/07/14 16:05:07
+RE: SAPC 14B CP02 DFU clean up activity team plan
+11/01/14 01:39:50
+RE: Toolset for database Backup on TSP platform
+10/30/14 16:19:14
+IPM: For your information and action
+10/28/14 00:30:31
+RE: Toolset for database Backup on TSP platform
+10/21/14 13:48:10
+2014 Family Day is coming!
+10/14/14 00:01:48
+RE: 14B CP02 - Integration of TRs from previous releases
+10/13/14 02:50:22
+RE: Toolset for database Backup on TSP platform
+10/09/14 15:23:07
+FW: SAPC 14B CP1 Released on time!
+10/03/14 00:55:22
+Toolset for database Backup on TSP platform
+08/25/14 09:07:27
+Aug 2014 time report
+08/22/14 18:17:54
+FW: ACTION: Know & respect the DBN/DBS Design Rules, specially the upgrade ones!!
+07/18/14 15:57:50
+FW: New Tech ppt.
+07/18/14 12:24:17
+FW: cloud and vEPC training package for manager and leader
+07/11/14 13:12:59
+SACC overview (Generation 11)
+07/11/14 10:57:14
+RE: feedback: cSAPC14B-CP1, CRs46&51 Enhancements User Notifications, qualify of CPI Docs
+07/11/14 09:14:08
+FW: material of session management trainning
+06/18/14 10:22:58
+RE: ESy Simulator. How to use outline in SAPC vTSP environment
+06/10/14 15:02:55
+RE: SAPC: How to use Outline as Gx client 
+06/10/14 09:25:32
+RE: SAPC: How to install and use SMSC simulator 
+06/06/14 18:03:34
+Maintenance Program Summer Holidays
+06/06/14 11:13:32
+Ericoll training area.
+06/04/14 20:29:40
+RE: action: cSAPC14B-WP55 Usability TR regarding EPC.ini file (to be configured)
+05/19/14 13:08:31
+FW: Python Challenge
+05/15/14 21:39:33
+Titan Newsletter Q1 2014 - please feel fre to redistribute within Ericsson
+04/30/14 18:34:07
+RE: CBC CPI Improvements
+04/30/14 16:18:26
+RE: CPI Introduction in SAPC SH
+04/24/14 22:32:43
+Documentacion interna
+04/24/14 22:02:42
+FW: DBN presentation material
+04/10/14 23:48:09
+RE: Technical presentation: Basic Clean-Up 14B (English version + video-conference)
+04/08/14 11:28:53
+Ericsson Workplace Survey 2014 - Your chance to speak out! 
+03/31/14 10:58:36
+FW: Books and code review stats
+03/27/14 16:49:21
+RE: Oracle JDBC Drivers Programmer's Guide
+03/26/14 17:07:39
+Easter Holidays plan for Maintenance team
+03/25/14 22:29:26
+R&D hidden Env Variables doc
+03/21/14 00:28:51
+SAPC CPI-Intro
+03/18/14 23:37:48
+Personal Development Goals 2014
+03/17/14 23:26:21
+Contact Persons, HOT TRs
+03/12/14 18:34:32
+TLM and EP building procedures
+02/26/14 18:31:20
+'ascii' codec can't encode character u'\xed' in position 7: ordinal not in range(128)
+02/25/14 22:12:24
+Some TRs regarding some of the most recurrent technical areas
+02/25/14 18:14:03
+Documentation
+02/24/14 15:17:36
+ACTION: Time report before Wednesday February 26 at 12:00 CET
+02/24/14 10:20:41
+Feb14 time report
+02/18/14 15:26:42
+'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+01/24/14 09:12:42
+Jan time report
+12/18/13 09:39:28
+FW: Acrolinx for Tagtool users
+12/17/13 21:58:56
+ACTION: Important info/action regarding time reporting 2013
+12/17/13 18:38:25
+2013 Year-end Time Report
+12/16/13 12:16:19
+FW: 2014 Calendar
+12/13/13 16:58:51
+RE: [INFO] SAPC Tutorial Video
+12/12/13 23:08:44
+Yearly Closing - Line Cost Reservation
+11/22/13 22:18:18
+ACTION: Time report before Tuesday November 26 at 12:00 CET
+11/21/13 17:37:03
+RE: [SAPC Code Kata]: DBNjoy
+11/18/13 17:45:55
+[Action]: 2013 IPM: Preliminary Evaluation Self-Assessment is now available in ITM
+11/12/13 11:57:57
+FW: SAPC ST Materials
+11/08/13 13:58:17
+CCRC doc
+11/07/13 13:32:14
+Scripts that make our life easier (DFU)
+11/06/13 11:04:36
+[NOTICE] early phase time report
+11/04/13 16:09:22
+RE: [SAPC Code Kata]: Follow The Message Flow. Session 2
+10/29/13 16:00:38
+FW: Concur checks
+10/28/13 09:41:47
+Oct Time Report
+10/28/13 09:05:13
+ACTION: GW, SAPC and SASN SYSTEM MANAGER IPM FEEDBACK NEEDED
+10/24/13 14:50:30
+ACTION: Time report before Tuesday October 29 at 12:00 CET
+10/18/13 00:09:47
+[Knowledge sharing] Tlm package and upgrade package
+09/26/13 12:47:30
+RE: [Knowledge sharing - seminar] TSP Process
+09/17/13 15:04:01
+Network ID for working time report
+09/16/13 12:32:45
+RE: Apply Employment Certificate
+09/12/13 10:31:27
+FW: Scrum Workshop (kanban sharing)
+08/29/13 18:22:31
+FW: Courses in MyLearning
+08/26/13 09:32:41
+Aug time report
+08/23/13 15:46:07
+ACTION: Time report before Wednesday August 28 at 12:00 CET
+07/31/13 17:48:45
+WB Author Expectations
+07/26/13 14:29:14
+July time report
+07/19/13 15:06:58
+'ascii' codec can't encode characters in position 0-6: ordinal not in range(128)
+07/12/13 13:44:46
+FW: Clarifications regarding how to do the deliveries from WPs to LSV - updated slides
+07/01/13 15:01:14
+FW: Delivery process from WPs to LSV - clarifications about the ways of working
+06/24/13 09:00:52
+Jun time report
+06/14/13 16:24:07
+FW: Priority of TSP exercises
+06/13/13 02:25:12
+ACTION: Time report and do your Concur before the half year-end closing
+06/03/13 14:03:16
+FW: Connect to spain ST NX 
+05/31/13 13:26:53
+Meeting Rooms
+05/28/13 16:50:47
+Our unit mail distribution list
+05/28/13 13:42:21
+'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+05/27/13 17:28:41
+ACTION: Time report before Wednesday May 29 at 12:00 CET
+05/27/13 10:36:30
+May time report
+05/27/13 10:16:42
+PC-SAPC review procedure
+05/14/13 14:31:50
+RE: PIN of employee card
+05/10/13 17:48:58
+How to decode CA during FT test
+05/10/13 13:23:35
+INFO: Innovation presentation Shanghai (LUNCH SEMINAR)
+05/07/13 15:54:05
+'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+04/23/13 22:22:58
+ACTION: Time report before Friday April 26 at 12:00 CET
+04/22/13 15:36:46
+Apr time report
+04/16/13 16:02:52
+EPC introduction slides
+04/11/13 15:29:46
+Documentation rules
+04/10/13 14:56:34
+TTCN-3 license key
+04/02/13 09:56:33
+Here is an introduction for EPC
+03/29/13 10:09:48
+[Book]: How to run Scrum
+03/27/13 13:20:06
+Welcome!!!
+02/10/15 19:31:18
+FW: GeoRed for SAPC slides
+02/16/15 10:43:51
+FW: [tip] how to work in your own PC using RVI
+02/17/15 11:11:03
+Highlight//[DFU] imake usage
+05/10/15 11:09:52
+Lync Conferencing - You have new functionalities in Lync, your meeting experience will change!
+05/15/15 11:56:02
+FW: CSR_2750833, SAPC AUTORENEWAL PROBLEM
+05/19/15 22:22:45
+Increase your Outlook Mailbox to 5GB
+05/28/15 20:29:22
+To to close ASAP
+06/02/15 17:00:35
+RE: HT69313 HT73153 etc basicCleanup CA
+06/03/15 15:06:16
+SAPC CPI Handling
+06/10/15 17:28:04
+RE: HT69313 HT73153 etc basicCleanup CA
+06/10/15 17:27:41
+Reminder for Hackathon/Thinkathon participants, 17:30PM June 10 
+06/11/15 10:36:38
+RE: Reminder for Hackathon/Thinkathon participants, 17:30PM June 10 
+06/11/15 13:45:09
+FW: Reg. CSR [2766309] No ACG install in CCR-U after RAR failed
+06/11/15 18:02:58
+RE: SAPC 14B CP4: HT68746 Gx+ license error message
+06/11/15 17:49:55
+Clarification of a TR
+06/17/15 21:10:22
+RE: HT69313 HT73153 etc basicCleanup CA
+06/17/15 21:04:08
+RE: HT69313 HT73153 etc basicCleanup CA
+06/24/15 14:51:27
+RE: MoM YAB 5th align meeting
+06/18/15 18:12:35
+RE: Top 20 Teams results of Hackathon
+07/06/15 11:09:11
+RE: SAPC Support for VoWiFi emergency Calls - Analysis
+07/13/15 17:56:29
+RE: ITS 
+07/30/15 08:10:22
+Re: hi, i'm ask for the material in the advanced Python training, thanks
+08/13/15 17:32:49
+Slides of ts35o Optimization
+08/21/15 13:22:29
+any volunteer for docker cop driver 
+09/15/15 17:32:22
+Action: Increase your Outlook mailbox
+09/16/15 18:52:46
+2015 Annual Health Check
+09/21/15 10:52:07
+FW: 2828102, TDC VoLTE, Test Bed EPG
+09/23/15 16:06:47
+FW: [Embrace Technology] Congratulations to winners of TECH Champion
+09/23/15 16:56:35
+Did you know..?
+09/24/15 11:14:37
+FW: 2828102, TDC VoLTE, Test Bed EPG
+09/25/15 19:43:53
+RE: TR HT96775
+09/30/15 00:30:04
+RE: [SAPC15B CP1] Improvement in overload situation
+09/29/15 23:19:26
+NIV TRs
+09/29/15 18:06:24
+AEM - SDN & Policy Control
+09/30/15 08:24:40
+bread card for TECH Champion
+09/30/15 09:03:20
+RE: bread card for TECH Champion
+09/30/15 12:15:34
+RNEA Sustainability and Corporate Responsibility Promotion --- Enabling the low-carbon economy
+09/30/15 12:38:52
+Notification: Coffee&tea area renovation at A4F during National day
+09/30/15 13:43:16
+Missed conversation with William Hu
+09/30/15 14:33:39
+RE: Dialog response rate - Sep 15
+09/30/15 14:42:51
+RE: AEM - SDN & Policy Control
+09/30/15 15:08:40
+SAPC Installed Base Report [September 2015]
+09/30/15 15:12:01
+Re: TR HT96775
+09/30/15 15:48:16
+Notification: Power of air condition in building A will be shut down during 8:00-20:00 on Oct.5(Mon)
+09/30/15 16:46:48
+FW: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+09/30/15 16:57:24
+FW: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+09/30/15 17:38:15
+Re: TR HT96775
+09/30/15 17:44:25
+RE: TR HT96775
+09/30/15 18:11:24
+AEM SDN & PC - On Demand link and  Web poll - Please provide your feedback on the All Employee Meeting!
+10/07/15 09:21:45
+SuccessFactors Learning Expiration Notification
+10/06/15 20:28:48
+cSAPC Maintenance Program Report - W41
+10/06/15 17:09:41
+Action: Review & acknowledge your incentive 2015 target agreement
+10/06/15 15:53:36
+RE: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/06/15 15:53:00
+RE: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/06/15 00:53:06
+RE: TR HT96775
+10/06/15 00:43:29
+RE: about CSr 2840119 & CSR 2840118
+10/06/15 00:10:02
+RE: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/05/15 19:04:10
+Recommended "Cources of the Month" from Network Analytics & Control
+10/05/15 14:36:32
+RE: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/05/15 14:35:05
+FW: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/05/15 12:51:57
+Let's take 3 online trainings by Oct 31st
+10/02/15 13:53:42
+PLANNED:  IT Service Disruption for WLAN users on Oct 3, 2015
+10/02/15 11:58:35
+RE: Maintenance 2015-10-01.03 (Internal Only):SAPC14A reached ML4
+10/02/15 09:05:39
+FW: about CSr 2840119 & CSR 2840118
+10/02/15 00:55:16
+R&D Talks 2015 - New sessions
+10/01/15 17:12:37
+RE: Maintenance 2015-10-01.03 (Internal Only):SAPC14A reached ML4
+10/01/15 17:11:56
+FW: Maintenance 2015-10-01.03 (Internal Only):SAPC14A reached ML4
+10/01/15 15:15:26
+Presentation available from NAC Expert Seminar with Diego Caviglia about Transport SDN
+10/01/15 11:07:50
+RE: CSR 2728597 : SAPC QoS profile mismatch 
+10/01/15 10:08:03
+ClearCase: Please remove your old views at Gothenburg Engineering Hub.
+10/01/15 10:07:58
+ClearCase: Please remove your old views at Gothenburg Engineering Hub.
+10/08/15 09:53:26
+Global Security Awareness Day (Oct 14)
+10/08/15 10:03:37
+'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+10/08/15 10:06:02
+'ascii' codec can't encode characters in position 4-5: ordinal not in range(128)
+10/08/15 10:17:58
+FW: ACTION: Security Sally Deadline October 9
+10/08/15 10:33:47
+RE: Vacation from Sept 25th, be back to office on Oct 8th.
+10/08/15 11:43:29
+Yingda sick leave on 8th Oct
+10/08/15 15:11:48
+RE: Congratulations to winners of TECH Champion
+10/08/15 15:41:15
+RE: TR Follow up
+10/08/15 15:58:51
+'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+10/08/15 16:06:54
+'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+10/08/15 17:13:39
+RE: VoLTE concept
+10/08/15 17:16:06
+Notification: High voltage equipment maintenance on Oct.11 
+10/09/15 08:17:22
+Student Questionnaire Survey Assignment Notification
+10/09/15 01:24:16
+DAGs usage- help is needed
+10/08/15 23:13:06
+RE: TR HT96775
+10/08/15 21:55:16
+Ericsson Global News Summary, September 2015
+10/08/15 20:55:05
+Pay Attention before the assignement of a new TR
+10/08/15 20:14:30
+RE: lista
+10/08/15 18:45:21
+lista
+10/09/15 09:27:03
+CodingWithMe Oct 14th, 2015 (issue 64) is open for registration
+10/09/15 09:40:57
+Congratulations to winners of TECH Champion
+10/09/15 15:07:22
+RE: Congratulations to winners of TECH Champion
+10/09/15 15:30:06
+RE: Congratulations to winners of TECH Champion
+10/09/15 16:37:13
+I will leave earlier now due to personal issue[NC]
+10/10/15 17:41:40
+Next Monday to Wednesday (10.12~14), Ryan Li will take a training
+10/10/15 15:41:04
+TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/10/15 14:26:46
+'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+10/10/15 09:48:43
+RE: TR to solve
+10/10/15 01:59:36
+RE: TR HT96775
+10/10/15 01:55:00
+TR to solve
+10/09/15 23:17:21
+Innovative Everyday speech for innovation community
+10/09/15 17:54:08
+[Info]: I will be on vacation tomorrow
+10/12/15 09:10:28
+FW: Production Insight  - INVITATION 2015-10 EPG
+10/12/15 09:20:47
+[Reminder] TIME TO LEARN Global Learning Day
+10/12/15 09:26:29
+FW: Let's take 3 online trainings by Oct 31st
+10/12/15 10:31:13
+My Support for you
+10/12/15 10:35:58
+Yingda will come to office this afternoon
+10/12/15 13:04:35
+'ascii' codec can't encode characters in position 4-5: ordinal not in range(128)
+10/12/15 13:37:34
+Missed conversation with Leo Gu X
+10/12/15 14:03:41
+FW: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/12/15 14:07:08
+RE: SAPC Tier2 priorization requests towards SAPC DM - 6/10/2015
+10/12/15 14:28:08
+DFU weekly meeting
+10/12/15 15:34:16
+RE: Outing date&duration Poll
+10/12/15 15:35:26
+RE: Outing date&duration Poll
+10/12/15 15:35:53
+RE: Outing date&duration Poll
+10/12/15 15:39:02
+RE: Outing date&duration Poll
+10/12/15 15:57:44
+FW: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/12/15 17:10:21
+FW: CSR 2849877, Max-Requested-Bandwidth 0 in CCA
+10/13/15 10:31:21
+FW: CSR 2822927 ToD not stored.Max number of attts reach
+10/13/15 12:33:09
+2861250, RCA for Emergency CSR 2861233
+10/13/15 14:06:01
+Security and OHS Awareness Day (Oct 14)
+10/13/15 15:32:30
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/13/15 16:09:25
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/13/15 16:31:29
+[New link to Learning Content] TIME TO LEARN Global Learning Day
+10/13/15 16:41:28
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/14/15 22:17:27
+[SAPC Design Community] MoMs 15-w42
+10/14/15 18:42:20
+[Info]: I will have an offsite training tomorrow
+10/14/15 16:27:58
+FW: BU Cloud & IP Newsletter, October 2015
+10/14/15 16:10:33
+'ascii' codec can't encode character u'\xf3' in position 8: ordinal not in range(128)
+10/14/15 10:00:06
+RNEA Organizational Announcement
+10/14/15 08:16:28
+Global Security Awareness Day (Oct 14)
+10/13/15 22:27:24
+BU Cloud & IP Newsletter, October 2015
+10/13/15 19:04:30
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/13/15 18:37:11
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/13/15 18:31:52
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/13/15 18:02:13
+cSAPC Maintenance Program Report - W42
+10/13/15 17:47:21
+RE: TR Follow up
+10/15/15 10:48:34
+FW: CSR 2842638, SAPC Admin GUI not accessible 14BCP04
+10/15/15 10:45:54
+FW: CSR 2842638, SAPC Admin GUI not accessible 14BCP04
+10/15/15 10:41:19
+'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+10/15/15 10:38:26
+CSR 2842638, SAPC Admin GUI not accessible 14BCP04
+10/15/15 10:03:27
+[DFU] tag created for SAPC15B_FP01
+10/15/15 10:02:38
+Missed conversation with Justin Xiao
+10/15/15 09:53:53
+[NOTICE] Please udpate the job with new Pool from TSP7000 to TSP7002.
+10/15/15 12:10:32
+Missed conversation with Jason Chen M
+10/15/15 12:57:01
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/15/15 13:17:34
+Missed conversation with Jason Chen M
+10/15/15 13:36:49
+RE: Outing date&duration Poll
+10/15/15 14:10:43
+Meet the 2015-2016 Asia-Pacific Young Advisory Board members
+10/15/15 15:25:19
+[Reminder] Mainland China All Employee Meeting with CEO Hans Vestberg, Thursday Oct 15, 16:15-17:00
+10/15/15 15:41:46
+'ascii' codec can't encode character u'\u3010' in position 0: ordinal not in range(128)
+10/15/15 16:14:02
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/15/15 16:37:41
+RE: TR HT96775
+10/15/15 17:03:13
+RE: TR in 14A?
+10/16/15 00:20:51
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/15/15 21:07:07
+RE: TR in 14A?
+10/15/15 20:45:05
+FW: HU24226 - "SAPC14BCP2 CA on EpcSubsChargingProcess"
+10/15/15 19:47:21
+Re: TR in 14A?
+10/15/15 17:43:29
+'ascii' codec can't encode character u'\xb4' in position 50: ordinal not in range(128)
+10/15/15 17:28:16
+[Tools] View Test spec AUTOMATICALLY!!!
+10/15/15 17:26:52
+RE: TR in 14A?
+10/16/15 09:52:34
+Yingda work at home today
+10/16/15 10:00:59
+Understanding OSS/BSS Customers Curriculum launched
+10/16/15 10:04:19
+FW: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/16/15 10:20:01
+RE: Outing date&duration Poll
+10/16/15 10:33:13
+[Feedback Needed] TIME TO LEARN Global Learning Day
+10/16/15 12:25:56
+RE: Outing date&duration Poll
+10/18/15 11:05:43
+Information: You are being recertified for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/17/15 03:47:50
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/17/15 03:02:04
+TR to solve
+10/16/15 21:42:55
+C++ Quiz: are you a code guru?
+10/16/15 19:53:57
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/16/15 18:16:25
+Notification: Private electricial applicance for registration and lebelling
+10/16/15 17:58:42
+PLANNED: IT Service Maintenance of Microsoft Security Patching on Oct 17-18, 2015
+10/16/15 17:56:12
+PLANNED: Verdi downtime Oct 17, 2015
+10/16/15 16:50:23
+FW: Shanghai HUB & Test Environment will be unavailable on coming change window Oct 24th ~ 25th due to FM ATS change 
+10/16/15 15:31:09
+'ascii' codec can't encode characters in position 4-7: ordinal not in range(128)
+10/16/15 12:51:16
+RE: TR HU22376 SAPC14BCP3:Follow-description was not updated while flow-status was changed and no flow-usage in MSC
+10/19/15 10:44:42
+Family Day is coming!
+10/19/15 14:06:41
+RE: TR to solve
+10/19/15 15:04:12
+Updated RNEA Travel Directive
+10/19/15 15:28:38
+[INFO] Baowei Will Take Training Out of Office 20-22 of Oct.
+10/19/15 15:28:59
+RE: TR to solve
+10/19/15 15:55:01
+FW: [DFU] Could you please share the status of the TRs?
+10/19/15 16:50:23
+RE: TR in 14A?
+10/19/15 17:08:07
+RE: TR in 14A?
+10/19/15 17:09:07
+RE: TR in 14A?
+10/19/15 17:11:14
+RE: TR in 14A?
+10/19/15 17:11:33
+RE: TR in 14A?
+10/20/15 10:18:56
+Employee Referral Program Mainland China 2015
+10/20/15 13:15:39
+Missed conversation with Kevin Zhong N
+10/20/15 13:38:00
+'ascii' codec can't encode characters in position 0-6: ordinal not in range(128)
+10/20/15 14:39:31
+FW: Let's take Security Sally Awareness Training by 31st Oct
+10/20/15 16:01:24
+RNEA Organizational Announcement
+10/20/15 16:22:57
+[AEM Webcast Replay Online] Last week's All Employee Meeting held by Group CEO Hans Vestberg
+10/20/15 17:00:16
+RE: Missed conversation with Carl Chen C
+10/20/15 17:02:28
+RE: TR Follow up
+10/20/15 17:29:08
+vacation plan
+10/20/15 23:28:18
+TR backlog status- WK43
+10/20/15 23:26:26
+RE: TR Follow up
+10/20/15 23:18:07
+help for a TR
+10/20/15 23:00:53
+cSAPC Maintenance Program Report - W43
+10/20/15 21:36:06
+RE: HUB Change weekend,  Oct 24th and 25th
+10/21/15 09:24:32
+Tech Breakfast session support Enbrace Technology-Innovation lab activity 
+10/21/15 10:38:05
+Notification: Tour for office environmen check at 3pm this afternoon 
+10/21/15 10:43:10
+FW: HUB Change weekend,  Oct 24th and 25th
+10/21/15 11:30:36
+PLANNED:  IT Service Disruptions Due to Power Outage for Shanghai CBC Office on Oct 24, 2015
+10/21/15 11:34:17
+FW: PLANNED:  IT Service Disruptions Due to Power Outage for Shanghai CBC Office on Oct 24, 2015
+10/21/15 13:09:35
+FW: Notification: Tour for office environmen check at 3pm this afternoon 
+10/21/15 14:55:02
+[WFH]: I will leave office earlier and work from home
+10/21/15 21:52:27
+CPI impacts due to WPs
+10/22/15 10:02:48
+Call for Registration in "Exploration Days"
+10/22/15 13:40:14
+'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+10/22/15 14:25:35
+[Design Forum] Sharing from CC Expert JianYu over experience of design forum scope
+10/22/15 14:59:27
+RE: [Design Forum] Sharing from CC Expert JianYu over experience of design forum scope
+10/22/15 16:10:18
+FW: Time reporting - OCTOBER deadline
+10/22/15 21:33:48
+help for TRs
+10/22/15 18:26:22
+[Info]: Townsend will take one day annual leave tomorrow (Oct.23rd)
+10/22/15 17:36:19
+CPI TR for 15BEP01
+10/23/15 10:01:15
+Missed conversation with Ryan Li
+10/23/15 13:28:23
+Who are you would like to give this cleanups training session
+10/23/15 13:30:34
+Missed conversation with Jason Chen M
+10/23/15 13:50:56
+Session management training materials in case you need them
+10/23/15 14:21:08
+Welcome to 2015 Technology & Innovation Day at Shanghai on Dec.2-3
+10/23/15 14:57:46
+RE: help for TRs
+10/23/15 15:08:39
+RE: help for TRs
+10/23/15 15:10:03
+RE: help for TRs
+10/23/15 15:40:48
+CEO Message on 2015 Q3 Results
+10/23/15 17:19:42
+[NOTICE] Use the right branch name for LSV
+10/26/15 09:35:26
+Good Morning from Peter Chen^_^
+10/26/15 09:18:26
+RE: Time reporting - OCTOBER deadline
+10/24/15 01:00:02
+Your mailbox is almost full.
+10/23/15 23:55:30
+FW: Git usage kata
+10/23/15 21:13:49
+'ascii' codec can't encode character u'\u2013' in position 19: ordinal not in range(128)
+10/23/15 20:25:29
+'ascii' codec can't encode character u'\u2013' in position 19: ordinal not in range(128)
+10/23/15 19:56:01
+Organizational Announcement from PDU SDN & Policy Control; Norbert Niebert appointed Head of Systems and Technology
+10/23/15 19:45:27
+'ascii' codec can't encode character u'\xe4' in position 63: ordinal not in range(128)
+10/26/15 13:52:21
+RE: Emailing: Build+A+-3F-Seat+numbering
+10/26/15 15:43:55
+RE: Time reporting - OCTOBER deadline
+10/26/15 17:05:22
+FW: Time reporting - OCTOBER deadline
+10/26/15 17:17:37
+Sign Up Now ! limited seats for Cloud Tech Workshop on Oct 28 
+10/26/15 21:16:52
+Change in Travel Agency & booking process
+10/26/15 19:49:53
+R&D Talks 2015 - New sessions - REMINDER
+10/26/15 18:54:22
+RE: TR in 14A?
+10/26/15 17:44:48
+My TRs status
+10/27/15 10:11:32
+RE: TR in 14A?
+10/27/15 10:19:12
+FW: YAB progress report
+10/27/15 10:46:19
+Reminder: Time Report 2015.10
+10/27/15 10:47:17
+RE: Tech Breakfast session support Enbrace Technology-Innovation lab activity 
+10/27/15 12:31:49
+Evaluation behavior changed between 14A CP1 and 15B EP1
+10/27/15 13:20:23
+Tech Breakfast invitaiton from BUCI SH YAB
+10/27/15 16:36:33
+RE: TR in 14A?
+10/27/15 16:39:12
+RE: TR in 14A?
+10/27/15 18:04:18
+Missed conversation with Justin Xiao
+10/28/15 01:09:49
+RE: Maintenance 2015-10-27.08 (Internal Only):SAPC 14B EP5.1 is released
+10/28/15 00:31:52
+RE: Maintenance 2015-10-27.08 (Internal Only):SAPC 14B EP5.1 is released
+10/28/15 00:20:58
+RE: Maintenance 2015-10-27.08 (Internal Only):SAPC 14B EP5.1 is released
+10/27/15 23:48:01
+FW: Maintenance 2015-10-27.08 (Internal Only):SAPC 14B EP5.1 is released
+10/27/15 23:43:04
+FW: Maintenance 2015-10-27.08 (Internal Only):SAPC 14B EP5.1 is released
+10/27/15 23:19:57
+Welcome to BU Cloud & IP Technology Day, December 10 2015
+10/27/15 23:05:26
+TR verified - HT99406 "SAPC14A CP2 Capsule Abortion on EPC_PcrfProc User Heap exhausted"
+10/27/15 23:05:17
+TR approved - HT99406 "SAPC14A CP2 Capsule Abortion on EPC_PcrfProc User Heap exhausted"
+10/27/15 22:40:45
+TR verified - HT97387 "SAPC 14ACP2: EPC_PcrfProc CA Assertion "userGroupsLimits.size() == priorizedUserGroupsLimits.size()"
+10/27/15 22:40:37
+TR approved - HT97387 "SAPC 14ACP2: EPC_PcrfProc CA Assertion "userGroupsLimits.size() == priorizedUserGroupsLimits.size()"
+10/27/15 22:10:22
+cSAPC Maintenance Program Report - W44
+10/27/15 21:27:59
+TR backlog status Wk44
+10/28/15 08:57:09
+RE: Tech Breakfast session support Enbrace Technology-Innovation lab activity 
+10/28/15 08:58:30
+RE: Tech Breakfast session support Enbrace Technology-Innovation lab activity 
+10/28/15 09:00:56
+RE: Tech Breakfast session support Enbrace Technology-Innovation lab activity 
+10/28/15 10:22:31
+RNEA Organizational Announcement
+10/28/15 11:07:10
+Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 11:09:07
+FW: Family Day is coming!
+10/28/15 12:38:15
+RE: lunch together every two weeks
+10/28/15 13:06:36
+R&D Shanghai Site Informer, Sep-Oct 2015
+10/28/15 13:45:11
+FW: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 13:48:31
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 13:49:14
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 13:50:23
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 13:55:01
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 14:16:54
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/28/15 15:22:59
+RE: Evaluation behavior changed between 14A CP1 and 15B EP1
+10/28/15 15:41:32
+WFH to participate a series of meetings
+10/28/15 15:59:11
+RE: help for TRs
+10/28/15 16:12:01
+[SAPC14B EP51] Summary and Release details
+10/28/15 16:19:38
+'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+10/28/15 16:19:46
+RE: help for TRs
+10/28/15 16:21:37
+RE: help for TRs
+10/28/15 16:26:01
+RE: help for TRs
+10/28/15 16:26:55
+RE: [SAPC14B EP51] Summary and Release details
+10/29/15 01:07:52
+FW: MHWeb Hot request for TR HU31002
+10/29/15 00:58:46
+I wil be off next Friday 30/10
+10/29/15 00:46:22
+FW: Maintenance 2015-10-28.07 (Internal Only):SAPC 15B CP01 is released
+10/29/15 00:33:48
+FW: Maintenance 2015-10-28.07 (Internal Only):SAPC 15B CP01 is released
+10/28/15 23:26:32
+RE: TLM96775
+10/28/15 18:40:31
+TLM96775
+10/28/15 17:30:34
+RE: Evaluation behavior changed between 14A CP1 and 15B EP1
+10/28/15 17:26:53
+RE: Evaluation behavior changed between 14A CP1 and 15B EP1
+10/29/15 08:45:10
+RNEA Security Awareness Quiz Result
+10/29/15 10:28:05
+'ascii' codec can't encode characters in position 4-7: ordinal not in range(128)
+10/29/15 10:34:48
+[OHS newsletter]  a NEW video "Good Sleeping" is released in the Work-Life Balance Toolkit of RNEA
+10/29/15 10:44:15
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/29/15 11:18:19
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/29/15 13:19:03
+Automatic reply: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/29/15 15:23:17
+acces to the hub
+10/29/15 15:39:35
+RNEA Security Newsletter 2015 - vol. 3
+10/29/15 16:17:38
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/29/15 16:39:44
+Order submitted - IDM Process ID: 3657102651630970706. IT Access named Rnd_Access_Seln-SDN-SAPC ordered for EZIKCHE
+10/29/15 16:41:35
+Order submitted - IDM Process ID: 3657577873154343886. IT Access named Rnd_Access_Seln-SDN-SAPC ordered for EZIKCHE
+10/29/15 16:52:19
+Order completed - IDM Process ID: 3657102651630970706. IT Access named Rnd_Access_Seln-SDN-SAPC ordered for EZIKCHE
+10/29/15 16:52:23
+HU24226: reproduced 
+10/29/15 17:02:01
+RE: RAR not sending app trace analysis
+10/29/15 17:04:20
+RE: MHWeb Hot request for TR HU31002
+10/29/15 17:06:10
+FW: Internal answer CSR 2808656, BoGUI not working
+10/29/15 17:07:13
+RE: Recertification rejected for IT Access "Rnd_Access_Seln-SDN-SAPC"
+10/29/15 17:07:37
+[DFU] new tag created for SAPC15B_FP01
+10/29/15 17:12:10
+Order completed - IDM Process ID: 3657577873154343886. IT Access named Rnd_Access_Seln-SDN-SAPC ordered for EZIKCHE
+10/30/15 01:30:08
+RE: I wil be off next Friday 30/10
+10/29/15 21:58:03
+Java  and c++ indexing in the same eclipse project
+10/30/15 09:17:01
+FW: RNEA Sustainability and Corporate Responsibility Promotion --- OHS
+10/30/15 10:20:19
+FW: [JIRA] (TSP-29969)  SAPC Admin GUI not accessible 14BCP04
+10/30/15 10:40:05
+RE: [DFU] tag created for SAPC15B_FP01
+10/30/15 13:28:30
+RE: Session management training materials in case you need them
+10/30/15 15:22:51
+RE: Session management training materials in case you need them
+10/30/15 15:58:04
+RE: [DFU] new tag created for SAPC15B_FP01
+10/30/15 16:41:09
+I will leave office now due to personal issue, call me if urgent
+10/30/15 16:59:09
+[Quality improvements from PLM/DM] SAPC 15B CP01 released
+10/30/15 17:25:19
+RE: Session management training materials in case you need them
+11/01/15 21:38:47
+RNEA has gone live with Carlson Wagonlist Travel (CWT) Travel Agency, as of November 1, 2015
+11/01/15 13:42:39
+External DB
+11/01/15 11:06:20
+ClearCase: Your old views will be deleted.
+11/01/15 11:06:16
+ClearCase: Please remove your old views at Gothenburg Engineering Hub.
+11/01/15 04:46:11
+Personal Invitation to Enroll in the Stock Purchase Plan
+10/31/15 01:51:09
+RE: vSAPC16A PRA/RFA/TG4 recommended
+10/30/15 21:08:13
+CBC DM rotation
+10/30/15 20:51:24
+[Info]: DM rotation
+10/30/15 20:03:06
+SAPC Installed Base Report [October 2015]
+10/30/15 18:24:30
+RE: HU24226: reproduced 
+10/30/15 18:05:38
+'ascii' codec can't encode characters in position 7-18: ordinal not in range(128)
+11/02/15 09:00:23
+RE: External DB
+11/02/15 09:15:47
+RE: CBC DM rotation
+11/02/15 10:13:33
+Welcome All SAPC colleagues!
+11/02/15 10:40:38
+RE: CBC DM rotation
+11/02/15 10:49:02
+useful links for DM
+11/02/15 11:23:03
+RE: useful links for DM
+11/02/15 13:38:16
+Missed conversation with Jason Chen M
+11/02/15 14:05:00
+RE: [JIRA] (TSP-30027) SAPC CSR 2866234, PC01PCRF Diameter peer down
+11/02/15 14:09:55
+RE: [JIRA] (TSP-30027) SAPC CSR 2866234, PC01PCRF Diameter peer down
+11/02/15 14:45:43
+FW: SAPC 15B FP01 TRs.xlsx--- > for 15B FP01 CNI 
+11/02/15 14:51:04
+RE: Welcome All SAPC colleagues!
+11/02/15 15:00:20
+Information to Business Travelers in Mainland China and Hong Kong regarding Air Ticket transactions uploaded to Concur from November 1, 2015
+11/02/15 15:35:59
+RE: CBC DM rotation
+11/02/15 15:46:19
+RE: CBC DM rotation
+11/02/15 16:58:43
+IPM 2015: Preliminary Evaluation Self-Assessment
+11/03/15 02:15:19
+RE: CBC DM rotation
+11/02/15 19:26:10
+RE: help for TRs
+11/03/15 09:14:47
+'ascii' codec can't encode characters in position 4-7: ordinal not in range(128)
+11/03/15 11:16:57
+Employee Self-Assessment in ITM
+11/03/15 13:33:18
+'ascii' codec can't encode characters in position 4-7: ordinal not in range(128)
+11/03/15 13:34:19
+Submmit ideas - RUBY - R - Mail - Miner
+11/03/15 13:35:17
+[Deisign forum]: Meetingminutes of DRB in 11/3/2015
+11/03/15 14:49:34
+Missed conversation with Leo Gu X
+11/03/15 15:12:59
+[HELP] authority in mhweb
+11/03/15 15:31:48
+RE: [HELP] authority in mhweb
+11/03/15 15:52:31
+RE: [HELP] authority in mhweb
+11/03/15 15:57:54
+RE: [HELP] authority in mhweb
+11/03/15 15:58:29
+RE: [HELP] authority in mhweb
+11/03/15 15:59:35
+RE: [HELP] authority in mhweb
+11/03/15 16:01:13
+RE: [HELP] authority in mhweb
+11/03/15 16:06:33
+RE: [HELP] authority in mhweb
+11/03/15 16:09:56
+Missed conversation with Ricardo Riolobos Sanz
+11/03/15 17:38:02
+[Info]: I will take half day annual leave tomorrow morning
+11/04/15 09:10:58
+SuccessFactors Overdue Learning Notification
+11/03/15 23:18:56
+cSAPC Maintenance Program Report - W45
+11/03/15 22:27:39
+RE: TR Follow up
+11/03/15 21:48:00
+TR reassigned to you
+11/03/15 20:25:47
+mail distribution list
+11/03/15 20:22:17
+Spot award
+11/03/15 18:11:42
+I will be OoO for training from Wed. to Fri
+11/03/15 18:02:13
+New Tech Workshop: Cryptography 
+11/04/15 09:29:00
+RE: HU29488 fault reproduction
+11/05/15 00:12:46
+RE: HU29488 fault reproduction
+11/04/15 22:23:28
+RE: Welcome CBC SAPC New Comer - Bena Chai
+11/04/15 17:04:50
+RE: TRs to assign
+11/04/15 16:50:10
+RE: TRs to assign
+11/04/15 16:44:05
+RE: TRs to assign
+11/04/15 16:39:42
+TRs to assign
+11/04/15 16:22:51
+RNEA Organizational Announcement
+11/04/15 15:30:05
+RE: YAB align meeting
+11/04/15 15:24:00
+RE: Welcome CBC SAPC New Comer - Bena Chai
+11/04/15 15:13:19
+RE: HU29488 fault reproduction
+11/04/15 15:09:54
+Welcome CBC SAPC New Comer - Bena Chai
+11/04/15 13:00:28
+RNEA Cloud Newsletter #3
+11/05/15 09:54:29
+RE: HU29488 fault reproduction
+11/05/15 13:50:36
+RE: HU29488 fault reproduction
+11/05/15 15:34:22
+RE: Spot award
+11/05/15 15:45:45
+RE: Spot award
+11/05/15 16:07:48
+process checking
+11/05/15 16:19:31
+CodingWithMe Nov. 11th, 2015 (issue 65) is open for registration - A good opportunity for learning various programing skills
+11/05/15 16:50:18
+Meet the happiness - Lecture by Ericsson Shanghai Human Resources
+11/05/15 17:18:56
+'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+11/06/15 01:25:31
+Ericsson Global News Summary, October 2015
+11/06/15 00:13:58
+Process change
+11/05/15 20:26:39
+On demand webcast link and webpoll from todays PAAC/DUAC All employee meeting
+11/05/15 18:24:16
+RE: Sponsor for basketball activity
+11/05/15 18:02:39
+RE: YAB align meeting
+11/05/15 17:58:35
+RE: HU29488 fault reproduction
+11/05/15 17:58:22
+RE: Sponsor for basketball activity
+11/05/15 17:51:03
+RE: YAB align meeting
+11/06/15 09:09:39
+RE: Sponsor for basketball activity
+11/06/15 09:28:33
+RE: Sponsor for basketball activity
+11/06/15 15:10:20
+[Reminder] Mainland China All Employee Meeting Q3 2015 with Chris Houghton, Monday Nov 9, 13:30-14:20
+11/06/15 15:53:17
+RE: Scrum 14B CP6
+11/06/15 16:00:17
+RE: Scrum 14B CP6
+11/06/15 16:00:21
+Developers' Digest - Vol. 4, 2015
+11/06/15 16:07:32
+Facebook & Apple idea boxes. Nov 17th
+11/06/15 16:11:55
+RE: Scrum 14B CP6
+11/06/15 16:23:27
+RE: YAB AP follow up and X-ID process
+11/06/15 16:36:08
+FW: CSR 2842638, [JIRA] (TSP-29969)  SAPC Admin GUI not accessible 14BCP04
+11/06/15 16:41:12
+FW: The inputs to YAB's 'Hear Your Voice'
+11/06/15 17:08:25
+Madrid Holiday
+11/06/15 17:28:48
+RE: Knowledge sharing of OpenStack
+11/06/15 17:57:01
+RE: HU29488 fault reproduction
+11/06/15 18:03:41
+Automatic reply: HU29488 fault reproduction
+11/06/15 18:10:51
+RE: The inputs to YAB's 'Hear Your Voice'
+11/07/15 23:00:26
+[Your Action] IPM Self Evaluation
+11/06/15 20:28:02
+Recommended "Cources of the Month" from Network Analytics & Control
+11/09/15 14:09:18
+TR status from my side
+11/09/15 16:19:31
+FW: CSA presentation to be deployed in your units
+11/09/15 16:30:12
+Ericsson and Cisco Partner to Create the Networks of the Future
+11/09/15 16:42:26
+FW: Ericsson and Cisco Partner to Create the Networks of the Future
+11/09/15 16:57:01
+FW: Global change window ----Nov 21 change at SH site.
+11/09/15 17:00:01
+BU Head Anders Lindblad on Ericsson and Cisco Strategic Partnership
+11/09/15 21:04:17
+Invitation to a NAC Expert Seminar featuring a best practice sharing from a Lead Customer engagement
+11/10/15 08:55:05
+RE: CodingWithMe Nov. 11th, 2015 (issue 65) is open for registration - A good opportunity for learning various programing skills
+11/10/15 09:41:48
+'ascii' codec can't encode characters in position 52-56: ordinal not in range(128)
+11/10/15 09:47:22
+'ascii' codec can't encode characters in position 52-56: ordinal not in range(128)
+11/10/15 10:45:51
+RE: CodingWithMe Nov. 11th, 2015 (issue 65) is open for registration - A good opportunity for learning various programing skills
+11/10/15 10:51:21
+RE: Tech Breakfast invitaiton from BUCI SH YAB
+11/10/15 12:17:24
+Yingda takes one day annual leave
+11/10/15 12:31:54
+Invitation of Family Day 
+11/10/15 13:21:37
+Missed conversation with Leo Gu X
+11/10/15 13:25:42
+RE: Employee Self-Assessment in ITM
+11/10/15 13:43:01
+PLANNED : ECN WIFI Downtime Nov 14, 2015
+11/10/15 15:29:35
+INFO: SHARING INFO GUIDELINES
+11/10/15 16:00:41
+RE: TR status from my side
+11/10/15 16:02:00
+RE: TR status from my side
+11/10/15 16:12:05
+RNEA Organizational Announcement
+11/10/15 16:41:15
+Ricardo Riolobos father again
+11/11/15 01:13:08
+[SAPC14B CP6] Error sending notification
+11/11/15 00:19:18
+HU24226 SAPC14BCP2 CA on EpcSubsChargingProcess 
+11/10/15 23:46:19
+RE: HU29488 fault reproduction
+11/10/15 19:36:07
+TR to 14B CP6
+11/11/15 07:51:53
+FW: HU14314, TSP-29530, JimServer_Process crash, TSP7.SAPC01, SAPC 14A CP2
+11/11/15 09:01:12
+FW: Product Insight: SGSN-MME Smooth Update (Nov. 18th)
+11/11/15 10:33:04
+'ascii' codec can't encode characters in position 52-56: ordinal not in range(128)
+11/11/15 10:49:12
+new tag SAPC15B_PRE_FP01_4  created for SAPC15B_FP01
+11/11/15 14:07:37
+Welcome to Lighthouse!
+11/11/15 15:26:03
+cSAPC Maintenance Program Report - W46
+11/11/15 15:46:21
+'ascii' codec can't encode characters in position 0-17: ordinal not in range(128)
+11/11/15 15:55:57
+'ascii' codec can't encode characters in position 0-15: ordinal not in range(128)
+11/11/15 16:04:54
+RE: YAB align meeting
+11/11/15 16:16:47
+Acknowledge the Code of Business Ethics 
+11/11/15 17:10:53
+WCD insights: DUAC Development System in FOCUS 
+11/11/15 23:32:15
+[SAPC14A EP24] Summary and Release details
+11/11/15 20:06:50
+RE: TR Follow up
+11/11/15 18:58:41
+RE: TR to 14B CP6
+11/11/15 18:30:25
+RE: TR to 14B CP6
+11/11/15 18:01:40
+RE: [Aaron respond] RE: YAB align meeting
+11/11/15 17:16:00
+[Aaron respond] RE: YAB align meeting
+11/12/15 08:27:39
+FW: [SAPC14A EP24] Summary and Release details
+11/12/15 14:17:34
+FW: CMSH SAPC R5/14B CP05 FI follow-up meeting#3
+11/12/15 14:30:40
+'ascii' codec can't encode characters in position 1-4: ordinal not in range(128)
