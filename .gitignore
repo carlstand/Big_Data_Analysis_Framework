@@ -1,3 +1,6 @@
+# Ignore all csv files. 
+*.csv
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
